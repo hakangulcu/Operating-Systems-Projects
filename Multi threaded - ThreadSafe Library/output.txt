@@ -1,0 +1,107 @@
+start_ptr : 3c2d0000
+Alloc completed in 21 microseconds
+Alloc completed in 19 microseconds
+Alloc completed in 54 microseconds
+Alloc completed in 34 microseconds
+Alloc completed in 34 microseconds
+Alloc completed in 33 microseconds
+Alloc completed in 41 microseconds
+Alloc completed in 32 microseconds
+Alloc completed in 43 microseconds
+Alloc completed in 38 microseconds
+Alloc completed in 38 microseconds
+Alloc completed in 43 microseconds
+Alloc completed in 52 microseconds
+Alloc completed in 52 microseconds
+Alloc completed in 47 microseconds
+Alloc completed in 54 microseconds
+Alloc completed in 49 microseconds
+Alloc completed in 54 microseconds
+Alloc completed in 69 microseconds
+Alloc completed in 72 microseconds
+
+A, 0x00007f8b3c2d0000, 0x4000 (16384) 
+A, 0x00007f8b3c2d4000, 0x100 (256) 
+A, 0x00007f8b3c2d4100, 0x1630 (5680) 
+A, 0x00007f8b3c2d5730, 0xb80 (2944) 
+A, 0x00007f8b3c2d62b0, 0x2340 (9024) 
+A, 0x00007f8b3c2d85f0, 0x1b10 (6928) 
+A, 0x00007f8b3c2da100, 0x1050 (4176) 
+A, 0x00007f8b3c2db150, 0xc20 (3104) 
+A, 0x00007f8b3c2dbd70, 0x18d0 (6352) 
+A, 0x00007f8b3c2dd640, 0x50 (80) 
+A, 0x00007f8b3c2dd690, 0x1420 (5152) 
+A, 0x00007f8b3c2deab0, 0x440 (1088) 
+A, 0x00007f8b3c2deef0, 0x210 (528) 
+A, 0x00007f8b3c2df100, 0xac0 (2752) 
+A, 0x00007f8b3c2dfbc0, 0x1da0 (7584) 
+A, 0x00007f8b3c2e1960, 0x1360 (4960) 
+A, 0x00007f8b3c2e2cc0, 0x2e0 (736) 
+A, 0x00007f8b3c2e2fa0, 0x1070 (4208) 
+A, 0x00007f8b3c2e4010, 0x20 (32) 
+A, 0x00007f8b3c2e4030, 0xb40 (2880) 
+A, 0x00007f8b3c2e4b70, 0x24a0 (9376) 
+A, 0x00007f8b3c2e7010, 0x2210 (8720) 
+F, 0x00007f8b3c2e9220, 0xe6de0 (945632) 
+
+internal frag = 136
+Free completed in 5 microseconds
+Deallocation successful!
+Free completed in 9 microseconds
+Free completed in 2 microseconds
+Deallocation successful!
+Free completed in 4 microseconds
+Free completed in 7 microseconds
+Deallocation successful!
+Free completed in 9 microseconds
+Free completed in 6 microseconds
+Deallocation successful!
+Free completed in 8 microseconds
+Free completed in 4 microseconds
+Deallocation successful!
+Free completed in 6 microseconds
+Free completed in 3 microseconds
+Deallocation successful!
+Free completed in 5 microseconds
+Free completed in 5 microseconds
+Deallocation successful!
+Free completed in 8 microseconds
+Free completed in 0 microseconds
+Deallocation successful!
+Free completed in 3 microseconds
+Free completed in 4 microseconds
+Deallocation successful!
+Free completed in 6 microseconds
+Free completed in 1 microseconds
+Deallocation successful!
+Free completed in 3 microseconds
+Free completed in 1 microseconds
+Deallocation successful!
+Free completed in 3 microseconds
+Free completed in 2 microseconds
+Deallocation successful!
+Free completed in 4 microseconds
+Free completed in 6 microseconds
+Deallocation successful!
+Free completed in 8 microseconds
+Free completed in 3 microseconds
+Deallocation successful!
+Free completed in 6 microseconds
+Free completed in 1 microseconds
+Deallocation successful!
+Free completed in 3 microseconds
+Free completed in 4 microseconds
+Deallocation successful!
+Free completed in 6 microseconds
+Free completed in 1 microseconds
+Deallocation successful!
+Free completed in 3 microseconds
+Free completed in 3 microseconds
+Deallocation successful!
+Free completed in 5 microseconds
+Free completed in 8 microseconds
+Deallocation successful!
+Free completed in 10 microseconds
+Free completed in 7 microseconds
+Deallocation successful!
+Free completed in 9 microseconds
